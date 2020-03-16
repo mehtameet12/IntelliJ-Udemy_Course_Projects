@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="455928aa-28c6-43e8-8e35-6f16688743b7" name="Default Changelist" comment="" />
+    <list default="true" id="f170ded2-af48-4de9-8e9f-e15945f64850" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ZBmk1irxtCLZTCCALyjX6i7Jd0" />
+  <component name="ProjectId" id="1ZEMlw9t0cqkOJ3NqhWVEfZkPft" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,7 +20,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Meet.LearningJava.Main" />
-      <module name="isPalindrome" />
+      <module name="LastAndFirstSum" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -39,38 +39,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="455928aa-28c6-43e8-8e35-6f16688743b7" name="Default Changelist" comment="" />
-      <created>1584321000747</created>
+      <changelist id="f170ded2-af48-4de9-8e9f-e15945f64850" name="Default Changelist" comment="" />
+      <created>1584399954552</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584321000747</updated>
+      <updated>1584399954552</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584326374183">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584400762336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584326374183" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584326374182">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584400762336" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584400762336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584326374182" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584326374182">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584400762336" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584400762336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584326374182" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584326374182">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584400762336" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584400762336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584326374182" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584399875222">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584399875222" />
-    <state x="65" y="0" key="new project wizard" timestamp="1584399953907">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584399953907" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584400762336" />
   </component>
 </project>
